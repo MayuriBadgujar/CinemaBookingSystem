@@ -1,0 +1,2 @@
+Name: mayu, Seat: [1, 1]
+Name: mayu, Seat: [2, 3]
